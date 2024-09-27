@@ -12,3 +12,9 @@ the journal. getting the journal and i missed how to get to the journal.
 
 # September 16, 2024
 This is a free week.
+
+# September 27, 2024
+Precision can be seen as a measure of quality, and recall as a measure of quantity. Higher precision means that an algorithm returns more relevant results than irrelevant ones, and high recall means that an algorithm returns most of the relevant results (whether or not irrelevant ones are also returned).
+If steps are missed you are going to get lost on what your doing and you will be confused like me when i can't find out how to get to the coding and how to do the coding so if you missed the details and instructions you are cooked.
+It is important to develop good habits so you can do more and go far with what your doing and so you can pay attention to details 
+early in your coding journey so you can learn how to code better and get better at coding.
